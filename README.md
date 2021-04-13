@@ -1,2 +1,2 @@
-# http-www.googleadservices.com
+# www.googleadservices.com
 Fun break and help people
